@@ -22,4 +22,5 @@ export default {
 
 
 #"Initial commit: Added React projects 08"
+git commit -m "Initial commit: Added React projects 08"
 git push origin main
