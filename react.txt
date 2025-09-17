@@ -9,7 +9,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {}, 
   },
   plugins: [],
 }
@@ -24,3 +24,7 @@ export default {
 #"Initial commit: Added React projects 08"
 git commit -m "Initial commit: Added React projects 08"
 git push origin main
+
+
+npm install @reduxjs/toolkit
+npm install react-redux
